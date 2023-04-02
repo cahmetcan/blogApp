@@ -1,0 +1,77 @@
+POST /user/login 200 484 - 246.084 ms {"email":"can@can.com","password":"1"}
+response time: 246ms 
+POST /user/login 200 484 - 243.106 ms {"email":"can@can.com","password":"1"}
+response time: 244ms 
+POST /user/login 200 29 - 237.501 ms {"email":"can@can.com","password":"123"}
+GET /user/logout 200 29 - 7.428 ms {}
+response time: 11ms 
+GET /user/logout 200 29 - 1.804 ms {}
+response time: 2ms 
+GET /user/logout 200 29 - 1.794 ms {}
+response time: 3ms 
+POST /user/login 200 29 - 262.675 ms {"email":"can@can.com","password":"123"}
+POST /user/login 200 29 - 251.402 ms {"email":"can@can.com","password":"123"}
+POST /user/login 200 29 - 231.895 ms {"email":"can@can.com","password":"123"}
+POST /user/login 200 29 - 248.169 ms {"email":"can@can.com","password":"123"}
+POST /user/login 200 29 - 239.505 ms {"email":"can@can.com","password":"123"}
+POST /user/login 200 29 - 265.583 ms {"email":"can@can.com","password":"123"}
+POST /user/login 200 29 - 239.167 ms {"email":"can@can.com","password":"123"}
+POST /user/login 200 29 - 230.133 ms {"email":"can@can.com","password":"123"}
+POST /user/login 400 38 - 2.737 ms {"email":"can@can.com"}
+POST /user/login 400 41 - 6.318 ms {"email":"can@can.com"}
+GET /user/logouts 404 22 - 8.352 ms {}
+response time: 12ms 
+GET /user/logouts 404 22 - 3.944 ms {}
+response time: 5ms 
+GET /user/logout 200 29 - 10.541 ms {}
+response time: 11ms 
+GET /user/logout 200 29 - 5.405 ms {}
+response time: 8ms 
+POST /user/login 200 41 - 2.304 ms {"email":"can@can.com"}
+GET /user/logout 200 29 - 6.403 ms {}
+response time: 7ms 
+GET /user/logout 200 34 - 10.478 ms {}
+response time: 13ms 
+GET /user/logout 200 34 - 16.059 ms {}
+response time: 17ms 
+GET /user/logout 200 29 - 13.317 ms {}
+response time: 16ms 
+GET /user/logout 200 29 - 5.977 ms {}
+response time: 10ms 
+GET /user/logout 200 29 - 7.017 ms {}
+response time: 8ms 
+GET /user/logout 200 34 - 8.491 ms {}
+response time: 9ms 
+POST /user/login - - - - ms {"email":"can@can.com","password":"123"}
+POST /user/login - - - - ms {"email":"can@can.com","password":"123"}
+POST /user/login - - - - ms {"email":"can@can.com","password":"123"}
+POST /user/login - - - - ms {"email":"can@can.com","password":"123"}
+POST /user/login - - - - ms {"email":"can@can.com","password":"123"}
+POST /user/login - - - - ms {"email":"can@can.com","password":"123"}
+POST /user/login - - - - ms {"email":"can@can.com","password":"123"}
+POST /user/login - - - - ms {"email":"can@can.com","password":"123"}
+POST /user/login - - - - ms {"email":"can@can.com","password":"123"}
+POST /user/login - - - - ms {"email":"can@can.com","password":"123"}
+POST /user/login - - - - ms {"email":"can@can.com","password":"123"}
+POST /user/login 200 29 - 900.211 ms {"email":"can@can.com","password":"123"}
+POST /user/login 200 29 - 1004.788 ms {"email":"can@can.com","password":"123"}
+POST /user/login 200 29 - 207.122 ms {"email":"can@can.com","password":"123"}
+POST /user/login 200 29 - 244.921 ms {"email":"can@can.com","password":"12345"}
+POST /user/login 200 484 - 261.841 ms {"email":"can@can.com","password":"1"}
+response time: 262ms 
+POST /user/login 200 484 - 251.180 ms {"email":"can@can.com","password":"1"}
+response time: 252ms 
+POST /user/login 200 41 - 7.080 ms {"email":"can@can.com"}
+POST /user/login 200 41 - 7.619 ms {"email":"can@can.com"}
+POST /user/login 200 41 - 6.814 ms {"email":"can@can.com"}
+POST /user/login 200 41 - 2.939 ms {"email":"can@can.com"}
+response time: 6ms 
+POST /user/login 200 41 - 1.939 ms {"email":"can@can.com"}
+response time: 3ms 
+POST /user/login 200 41 - 2.047 ms {"email":"can@can.com"}
+response time: 3ms 
+POST /user/login 200 41 - 1.813 ms {"email":"can@can.com"}
+response time: 3ms 
+POST /user/login 200 41 - 2.084 ms {"email":"can@can.com"}
+response time: 4ms 
+POST /user/login 200 29 - 234.679 ms {"email":"can@can.com","password":"12"}
